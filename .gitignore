@@ -1,0 +1,14 @@
+syntax: glob
+.gradle
+.hg
+bin
+build
+luac
+test/working
+*.orig
+*.rej
+# Default ignored files
+src/.idea/workspace.xml
+.idea/workspace.xml
+.idea/
+out/
